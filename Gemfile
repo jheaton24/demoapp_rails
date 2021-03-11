@@ -15,5 +15,3 @@ end
 gem 'jquery-rails'
 gem 'bootsnap'
 gem 'tzinfo-data'
-gem 'webpacker', github: 'rails/webpacker'
-gem 'yarn'
