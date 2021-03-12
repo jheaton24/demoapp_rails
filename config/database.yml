@@ -27,4 +27,3 @@ production:
   database: db/demo_prod
   user: jheaton24
   password: Mizzou92
-
